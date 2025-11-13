@@ -1,0 +1,1 @@
+# 🎵 Music Analytics — PostgreSQL Project
